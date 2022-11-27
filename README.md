@@ -1,4 +1,4 @@
-<h2 aligin="center">Welcome to Jyoti Chetry's Profile</h2>
+# 🏄‍♂️ Jyoti Chetry
 **`Coder/Developer/Problem solver`**
 
 
