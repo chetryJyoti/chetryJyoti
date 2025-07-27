@@ -2,7 +2,7 @@
 
 **`Software Engineer | Full Stack Developer | Curious Builder`**
 
-I enjoy building useful products that solve real-world problems.
+Building useful products that solve real-world problems.
 
 ---
 
