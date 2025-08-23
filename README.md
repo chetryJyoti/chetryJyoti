@@ -42,7 +42,7 @@ Building software products that solve real-world problems.
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=git&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-#### 🤖 AI & Vector Tools
+#### 🤖 AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-008888?style=for-the-badge)
@@ -50,31 +50,3 @@ Building software products that solve real-world problems.
 ![FastAPI](https://img.shields.io/badge/FastAPI-005f73?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-45A29E?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-facc15?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-7344FF?style=for-the-badge)
-
----
-
-### 📊 GitHub Activity
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chetryJyoti&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetryJyoti&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=chetryJyoti&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyoti-chetry-125b95202)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetryJyoti)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jyotichetry087/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://jyoticodefolio.in)
-
----
-
-<sub>“Consistency beats motivation. Show up, build, ship.”</sub>
