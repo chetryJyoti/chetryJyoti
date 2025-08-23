@@ -2,8 +2,6 @@
 
 **`Software Engineer | Full Stack Developer | Curious Builder`**
 
-Building software products that solve real-world problems.
-
 ---
 
 ### 🛠️ Tech Stack
